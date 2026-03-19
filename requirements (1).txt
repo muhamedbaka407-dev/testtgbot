@@ -1,0 +1,12 @@
+pyTelegramBotAPI
+flask
+flask
+pyTelegramBotAPI
+flask
+pyTelegramBotAPI
+flask
+pyTelegramBotAPI
+requests
+flask
+pyTelegramBotAPI
+requests
