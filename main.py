@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 from flask import Flask
 from threading import Thread
 
-TOKEN = "8771313511:AAH0-fif68tOr8PjNdH4mQD_yl8pAcQg9y8"
+TOKEN = "8771313511:AAGOjIZdmj3FR3od8pmqC7m0w-sWo-Zz_Lc"
 DB_PATH = os.path.join(os.path.dirname(__file__), 'bot_data.db')
 
 _db_lock = threading.Lock()
